@@ -1,4 +1,4 @@
-# flightcheck
+# FlightCheck
 
 FlightCheck makes travel easier by instantly scanning and organizing your boarding pass information. Simply point your camera at any boarding pass QR code to extract passenger details, flight numbers, seat assignments, and more.
 
